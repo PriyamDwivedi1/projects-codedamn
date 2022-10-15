@@ -1,0 +1,9 @@
+name: "Building the Footer"
+stepId: step4
+stepBreakDown:
+  - text: "The color of the tags in div element should be white."
+  - text: "Font-family should be Poppins in div element."
+  - text: "Button should have a hover effect"
+  - text: "Font-size of h2 tag should be `33px`"
+  - text: "Font-size of p tag should be `21px`"
+  - text: "Font-size of button tag should be `28px`"

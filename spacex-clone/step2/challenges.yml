@@ -1,0 +1,9 @@
+name: "Building the Page"
+stepId: step2
+stepBreakDown:
+  - text: "The navbar links should be in horizontal."
+  - text: "There should be a hover animation on nav-links."
+  - text: "color of the navbar links should be `#fff`."
+  - text: "add `space-between` property and `display to flex` in nav tag."
+  - text: "Background of the navbar should be transparent."
+  - text: "Font should be `Poppins`."

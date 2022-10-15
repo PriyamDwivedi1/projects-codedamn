@@ -1,0 +1,10 @@
+name: "Navbar"
+stepId: step1
+stepBreakDown:
+  - text: "The html code for navbar is already given. If you want to change it you can feel free to do it! But the final design of navbar should be same as image"
+  - text: "You can see a class name called `navbar` in nav tag change it to `home_navbar`"
+  - text: "Create a `style.css` file in the same directory as the `index.html`."
+  - text: "Link the CSS file to the HTML file"
+  - text: "Write the code for resetting CSS in style.css"
+  - text: "Set the background image using `background` tag in style.css. The image is in assest folder."
+

@@ -1,0 +1,10 @@
+name: "Adding Styles"
+stepId: step3
+stepBreakDown:
+  - text: "add a div tag with the class name `home`."
+  - text: "Add a `p` tag and write `Recent Misson` in it."
+  - text: "Add a `h2` tag and write `Crew-5 misson` in it."
+  - text: "Create a button tag."
+  - text: "Button background should be transparent"
+  - text: "Set the color of `p`, `h2` and button to white."
+  - text: "The text in button should be `Rewatch`."
